@@ -3,6 +3,9 @@
 <center>
                         <img align="center" src="/src/img/ModenasCAmbio.png" />
 </center>
+
+                        <img align="center" src="/src/img/CapturaPantalla1.png" />
+
 <h2>Para Comenzar:</h2>
 <h3>Requisitos para correr proyecto:</h3>
 <li><a href="https://www.java.com/es/download/">Java Runtime Environment (JRE)</a></li>
