@@ -118,5 +118,39 @@ public class Vistas {
         lector.close();
         System.out.println(reset);
     }
+    public  void logo(){
+        int i=0;
+        while(i<20){
+            System.out.println(" ");
+            i++;
+        }
+        i=0;
+
+        System.out.println(blue+"\t\t\t\t\t\t\t\t\t\t\t00000000000000000000000000"+reset);
+        System.out.println(blue+"\t\t\t\t\t\t\t\t\t\t\t00000000            000000"+reset);
+        System.out.println(blue+"\t\t\t\t\t\t\t\t\t\t\t000000    00000000    0000"+reset);
+        System.out.println(blue+"\t\t\t\t\t\t\t\t\t\t\t00000  000000000000   0000"+reset);
+        System.out.println(blue+"\t\t\t\t\t\t\t\t\t\t\t000    000000000000    000"+reset);
+        System.out.println(blue+"\t\t\t\t\t\t\t\t\t\t\t0000000000000000000    000"+reset);
+        System.out.println(blue+"\t\t\t\t\t\t\t\t\t\t\t00000000000000000      000"+reset);
+        System.out.println(blue+"\t\t\t\t\t\t\t\t\t\t\t0000000000000     0    000"+reset);
+        System.out.println(blue+"\t\t\t\t\t\t\t\t\t\t\t000000000     00000    000"+reset);
+        System.out.println(blue+"\t\t\t\t\t\t\t\t\t\t\t00000      00000000    000"+reset);
+        System.out.println(blue+"\t\t\t\t\t\t\t\t\t\t\t000    000000000000    000"+reset);
+        System.out.println(blue+"\t\t\t\t\t\t\t\t\t\t\t000    000000000000    000"+reset);
+        System.out.println(blue+"\t\t\t\t\t\t\t\t\t\t\t000    000000000000    000"+reset);
+        System.out.println(blue+"\t\t\t\t\t\t\t\t\t\t\t000    0000000000      000"+reset);
+        System.out.println(blue+"\t\t\t\t\t\t\t\t\t\t\t00000      0000        000"+reset);
+        System.out.println(blue+"\t\t\t\t\t\t\t\t\t\t\t0000000        0000    000"+reset);
+        System.out.println(blue+"\t\t\t\t\t\t\t\t\t\t\t00000000000000000000000000"+reset);
+        System.out.println("\t\t\t\t\t\t\t\t\t\t\t"+fondoCyanClaro+black+"_____Bienvenido!!!!!!_____"+reset);
+
+
+        precionaEnterParaContinuar();
+        while(i<20){
+            System.out.println(" ");
+            i++;
+        }
+    }
 }
 

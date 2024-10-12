@@ -6,6 +6,7 @@ public class Principal {
     public static void main(String[] args) throws IOException, InterruptedException {
         int opc=0;
         Vistas vistaMenusResultados=new Vistas();
+        vistaMenusResultados.logo();
         while(opc!=9) {
             opc = vistaMenusResultados.menuPrincipal(); //Menu principal
             if (opc>=1 && opc<=6 ){
