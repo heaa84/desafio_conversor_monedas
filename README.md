@@ -3,7 +3,11 @@
 <center>
                         <img align="center" src="/src/img/ModenasCAmbio.png" />
                         <img align="center" src="/src/img/CapturaPantalla1.png" />
+                        <img align="center" src="/src/img/CapturaPantalla2.png" />
+                        <img align="center" src="/src/img/CapturaPantalla3.png" />
+
 </center>
+                        <img align="center" src="/src/img/CapturaPantalla4.png" />
 
 
 <h2>Para Comenzar:</h2>
