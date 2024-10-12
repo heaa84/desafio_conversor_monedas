@@ -1,4 +1,4 @@
-<h1 align="center"><img align="center" src="/src/img/ModenasCAmbio.png" width="50" height="50"/> Conversor de moneda </h1>
+<h1 align="center"><img align="center" src="/src/img/ModenasCAmbio.png" width="50" height="40"/> Conversor de moneda </h1>
 <p align="center">Aplicacion que te ayuda a realizar cambios entre divisas</p>
 
 <img align="center" src="/src/img/CapturaPantalla2.png" width="500" height="500" />
