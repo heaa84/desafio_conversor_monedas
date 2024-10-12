@@ -2,9 +2,9 @@
 <p align="center">Aplicacion que te ayuda a realizar cambios entre divisas</p>
 <center>
                         <img align="center" src="/src/img/ModenasCAmbio.png" />
+                        <img align="center" src="/src/img/CapturaPantalla1.png" />
 </center>
 
-                        <img align="center" src="/src/img/CapturaPantalla1.png" />
 
 <h2>Para Comenzar:</h2>
 <h3>Requisitos para correr proyecto:</h3>
