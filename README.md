@@ -2,12 +2,9 @@
 <p align="center">Aplicacion que te ayuda a realizar cambios entre divisas</p>
 <center>
                         <img align="center" src="/src/img/ModenasCAmbio.png" />
-                        <img align="center" src="/src/img/CapturaPantalla1.png" />
                         <img align="center" src="/src/img/CapturaPantalla2.png" />
-                        <img align="center" src="/src/img/CapturaPantalla3.png" />
 
 </center>
-                        <img align="center" src="/src/img/CapturaPantalla4.png" />
 
 
 <h2>Para Comenzar:</h2>
@@ -20,12 +17,15 @@
 
 <h3>Como usar el programa? </h3>
 <li>El progrma ya cuenta con varios tipos de cambio (OPC 1 a 6) despues de escojer  el tipo de cambio, te pedira el monto, y despues te mostrara el resultado.</li>
+<img align="center" src="/src/img/CapturaPantalla1.png" />
 
 <h3>Pedemos hacer consultas de otras monedas?</h3>
 <li>Si con la OPC 7, nos pedira las dos monedas a comvertir asi como el monto, despues nos muestra el resultado</li>
+<img align="center" src="/src/img/CapturaPantalla3.png" />
 
 <h3>Pedemos ver consultas realizadas?</h3>
 <li>Si con la OPC 8, nos muestra todas las consultas realizadas</li>
+<img align="center" src="/src/img/CapturaPantalla4.png" />
 
 ### Librerias y lenguaje de progrmacion, usadas:
 <li>Gson</li>
