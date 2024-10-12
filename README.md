@@ -34,7 +34,7 @@
 <li>IDE: IntelliJ IDEA</li>
 
 ## Agradeciomiento:
-<li>Familia: Esposa e hijo </li>
+<li>Familia: Esposa E Hijo </li>
 <li>Aluram: Profesores y compañeros </li>
 
 ## Programa realizado por: Hugo Enrique Ayala Alarcon, Alumno Alura
