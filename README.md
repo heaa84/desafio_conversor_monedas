@@ -1,15 +1,15 @@
 <h1 align="center"> Conversor de moneda </h1>
 <p align="center">Aplicacion que te ayuda a realizar cambios entre divisas</p>
 <center>
-                        <img align="center" src="/src/img/ModenasCAmbio.png" />
-                        <img align="center" src="/src/img/CapturaPantalla2.png" />
+                        <img align="center" src="/src/img/ModenasCAmbio.png" width="300" height="230"/>
+                        <img align="center" src="/src/img/CapturaPantalla2.png" width="300" height="230" />
 
 </center>
 
 
 <h2>Para Comenzar:</h2>
 <h3>Requisitos para correr proyecto:</h3>
-<li>Java Development Kit (JDK)</li>
+<li><a href="https://www.oracle.com/mx/java/technologies/downloads/"> Java Development Kit (JDK) </a> </li>
 <li>un IDE de JAVA</li>
 
 <h3>Como Correro el programa?</h3>
@@ -29,9 +29,9 @@
 <img align="center" src="/src/img/CapturaPantalla4.png" />
 
 ### Librerias y lenguaje de progrmacion, usadas:
-<li>Gson</li>
-<li>Consultas API: <a href="https://www.exchangerate-api.com/">https://www.exchangerate-api.com/</a> </li>
-<li>lenguaje JAVA</li>
+<li>libreria: Gson</li>
+<li>Consumo de API: <a href="https://www.exchangerate-api.com/">https://www.exchangerate-api.com/</a> </li>
+<li>lenguaje: JAVA</li>
 <li>IDE: IntelliJ IDEA</li>
 
 ## Agradeciomiento:
