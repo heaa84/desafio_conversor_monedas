@@ -9,7 +9,8 @@
 
 <h2>Para Comenzar:</h2>
 <h3>Requisitos para correr proyecto:</h3>
-<li><a href="https://www.java.com/es/download/">Java Runtime Environment (JRE)</a></li>
+<li>Java Development Kit (JDK)</li>
+<li>un IDE de JAVA</li>
 
 <h3>Como Correro el programa?</h3>
 <li>Te posicionas en la carpeta /out/artifacts/MenuAColores_jar/</li>
