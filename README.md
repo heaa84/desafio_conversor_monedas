@@ -1,8 +1,8 @@
 <h1 align="center"> Conversor de moneda </h1>
 <p align="center">Aplicacion que te ayuda a realizar cambios entre divisas</p>
 <center>
-                        <img align="center" src="/src/img/ModenasCAmbio.png" width="300" height="230"/>
-                        <img align="center" src="/src/img/CapturaPantalla2.png" width="300" height="230" />
+                        <img align="center" src="/src/img/ModenasCAmbio.png" width="500" height="500"/>
+                        <img align="center" src="/src/img/CapturaPantalla2.png" width="500" height="500" />
 
 </center>
 
@@ -18,15 +18,15 @@
 
 <h3>Como usar el programa? </h3>
 <li>El progrma ya cuenta con varios tipos de cambio (OPC 1 a 6) despues de escojer  el tipo de cambio, te pedira el monto, y despues te mostrara el resultado.</li>
-<img align="center" src="/src/img/CapturaPantalla1.png" />
+<img align="center" src="/src/img/CapturaPantalla1.png" width="500" height="500"/>
 
 <h3>Pedemos hacer consultas de otras monedas?</h3>
 <li>Si con la OPC 7, nos pedira las dos monedas a comvertir asi como el monto, despues nos muestra el resultado</li>
-<img align="center" src="/src/img/CapturaPantalla3.png" />
+<img align="center" src="/src/img/CapturaPantalla3.png" width="500" height="500"/>
 
 <h3>Pedemos ver consultas realizadas?</h3>
 <li>Si con la OPC 8, nos muestra todas las consultas realizadas</li>
-<img align="center" src="/src/img/CapturaPantalla4.png" />
+<img align="center" src="/src/img/CapturaPantalla4.png" width="500" height="500"/>
 
 ### Librerias y lenguaje de progrmacion, usadas:
 <li>libreria: Gson</li>
