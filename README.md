@@ -1,11 +1,7 @@
 <h1 align="center"><img align="center" src="/src/img/ModenasCAmbio.png" width="50" height="50"/> Conversor de moneda </h1>
 <p align="center">Aplicacion que te ayuda a realizar cambios entre divisas</p>
-<center>
-                        
-                        <img align="center" src="/src/img/CapturaPantalla2.png" width="500" height="500" />
 
-</center>
-
+<img align="center" src="/src/img/CapturaPantalla2.png" width="500" height="500" />
 
 <h2>Para Comenzar:</h2>
 <h3>Requisitos para correr proyecto:</h3>
