@@ -23,11 +23,11 @@
 ### Librerias y lenguaje de progrmacion, usadas:
 <li>Gson</li>
 <li>Consultas API: <a href="https://www.exchangerate-api.com/">https://www.exchangerate-api.com/</a> </li>
-<li>lenguaje JAVA<li>
-<li>IDE: IntelliJ IDEA<li>
+<li>lenguaje JAVA</li>
+<li>IDE: IntelliJ IDEA</li>
 
 ## Agradeciomiento:
 <li>Familia: Esposa e hijo </li>
 <li>Aluram: Profesores y compañeros </li>
 
-## Progrma realizado por: Hugo Enrique Ayala Alarcon, Alumno Alura
+## Programa realizado por: Hugo Enrique Ayala Alarcon, Alumno Alura
