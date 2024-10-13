@@ -31,7 +31,6 @@
 <li>IDE: IntelliJ IDEA</li>
 
 ## Agradeciomiento:
-<li>Familia: Esposa E Hijo </li>
-<li>Aluram: Profesores y compañeros </li>
+### Agradesco primeramente a dios y mi familia, por el apoyo que me an brindado en la realizacion de este proyecto, asi como a mis maestros por todos los conocimientos brindados
 
 ## Programa realizado por: Hugo Enrique Ayala Alarcon, Alumno Alura
